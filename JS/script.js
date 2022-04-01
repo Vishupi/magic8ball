@@ -1,3 +1,6 @@
+console.log(`My name is Vishu`); // Greetings Java script//
+
+
 function yourFortune() {
 
     var answeropt = ["yes", "no", "maybe", "probably", "probably not", "ask again"];
